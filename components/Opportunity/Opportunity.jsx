@@ -13,16 +13,18 @@ function Opportunity() {
                     <div>
 
 
-                    <h2 className='text-[#FFFFFF] text-[36px] leading-[36px] font-[700] font-["Open_Sans"] mb-[50px] lg:text-[30px] lg:leading-[30px]'>Turli xil servislarga <br />
-                        To’lovlar</h2>
-                    <p className='text-[#FFFFFF] opacity-70 text-[28px] leading-[42px] font-[400] font-["Open_Sans"] lg:text-[22px] lg:leading-[40px]'>- Davlat xizmatlari uchun to‘lovlarni amalga oshirish va buni mamlakatga <br /> bog‘liq bo‘lmagan holda bajarish mumkin. Yana ham aniqrog‘i, ilovadan <br /> Rossiya va O‘zbekiston hududida foydalanish, to‘lovni esa ushbu <br /> davlatlarning istalgan kartasidan amalga oshirish mumkin. O‘zbekiston <br /> rezidentlari, shuningdek, uning norezidentlari, O‘zbekiston banklari <br /> kartalarining egalari foydali pul o‘tkazmalari hamda Uzcard va Humo <br /> kartalari o‘rtasida to‘lovlarni amalga oshirish imkoniga ega.</p>
+                        <h2 className='text-[#FFFFFF] text-[36px] leading-[36px] font-[700] font-["Open_Sans"] mb-[50px] lg:text-[30px] lg:leading-[30px]'>Turli xil servislarga <br />
+                            To’lovlar</h2>
+                        <p className='text-[#FFFFFF] opacity-70 text-[28px] leading-[42px] font-[400] font-["Open_Sans"] lg:text-[22px] lg:leading-[40px]'>- Davlat xizmatlari uchun to‘lovlarni amalga oshirish va buni mamlakatga <br /> bog‘liq bo‘lmagan holda bajarish mumkin. Yana ham aniqrog‘i, ilovadan <br /> Rossiya va O‘zbekiston hududida foydalanish, to‘lovni esa ushbu <br /> davlatlarning istalgan kartasidan amalga oshirish mumkin. O‘zbekiston <br /> rezidentlari, shuningdek, uning norezidentlari, O‘zbekiston banklari <br /> kartalarining egalari foydali pul o‘tkazmalari hamda Uzcard va Humo <br /> kartalari o‘rtasida to‘lovlarni amalga oshirish imkoniga ega.</p>
                     </div>
                     <div>
                         <Image
-                        width={326}
-                        height={660}
-                        src={'/images/iPhone 12 Pro 1.png'}
-                        className='lg:w-[300px]'
+                            width={326}
+                            height={660}
+                            src={'/images/iPhone 12 Pro 1.png'}
+                            className='lg:w-[300px]'
+                            alt='rasm'
+
                         />
                     </div>
                 </div>

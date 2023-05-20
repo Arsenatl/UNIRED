@@ -15,9 +15,10 @@ function Payment() {
                 </div>
                 <div className='absolute top-[100px] left-0'>
                     <Image
-                    width={1500}
-                    height={1000}
-                    src={'/images/Group 2208.svg'}
+                        width={1500}
+                        height={1000}
+                        src={'/images/Group 2208.svg'}
+                        alt='rasm'
                     />
                 </div>
             </div>

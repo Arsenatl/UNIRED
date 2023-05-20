@@ -17,6 +17,7 @@ function Footer() {
                   height={36}
                   src={'/images/global.svg'}
                   className='lg:w-[30px]'
+                  alt='rasm'
                 />
               </Link>
               <Link href={''}>
@@ -25,6 +26,8 @@ function Footer() {
                   height={36}
                   src={'/images/facebook1.svg'}
                   className='lg:w-[30px]'
+                  alt='rasm'
+
                 />
               </Link>
               <Link href={''}>
@@ -33,6 +36,8 @@ function Footer() {
                   height={36}
                   src={'/images/instagram1.svg'}
                   className='lg:w-[30px]'
+                  alt='rasm'
+
                 />
               </Link>
               <Link href={''}>
@@ -41,6 +46,8 @@ function Footer() {
                   height={36}
                   src={'/images/telegram 1 (1).svg'}
                   className='lg:w-[30px]'
+                  alt='rasm'
+
                 />
               </Link>
             </div>
@@ -50,6 +57,8 @@ function Footer() {
             width={250}
             height={145}
             src={'/images/unired mobile.svg'}
+            alt='rasm'
+
           />
         </div>
         <div className='text-start flex justify-center mb-[30px]'>
